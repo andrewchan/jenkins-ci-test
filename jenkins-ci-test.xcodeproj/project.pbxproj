@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					49D4371A1AB1093C00343A87 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 539STLH9DX;
 					};
 					49D4372F1AB1093C00343A87 = {
 						CreatedOnToolsVersion = 6.2;
@@ -336,6 +337,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "jenkins-ci-test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,6 +348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "jenkins-ci-test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -405,6 +408,7 @@
 				49D4373C1AB1093C00343A87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49D4373D1AB1093C00343A87 /* Build configuration list for PBXNativeTarget "jenkins-ci-testTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +417,7 @@
 				49D4373F1AB1093C00343A87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
